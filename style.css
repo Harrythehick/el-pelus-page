@@ -35,3 +35,15 @@ nav ul li a:hover{
     margin-left: 8%;
     margin-top: 15%;
 }
+.summary h1{
+    font-size: 50px;
+    color: white;
+    margin-bottom: 20px;
+}
+span{
+    color:gold;
+}
+.detel p{
+    color:lightgrey;
+    line-height: 22px;
+}

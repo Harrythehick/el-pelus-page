@@ -30,3 +30,7 @@ nav ul li a{
 nav ul li a:hover{
     color: rebeccapurple;
 }
+.summary{
+    margin-left: 8%;
+    margin-top: 15%;
+}

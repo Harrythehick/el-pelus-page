@@ -68,6 +68,17 @@ span{
     border-radius: 5px;
 }
 
+.summary a:hover{
+    background: yellow;
+    padding: 12px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    color: darkslateblue;
+    display: inline block;
+    margin: 30px 0;
+    border-radius: 5px;
+}
+
 .images{
     width: 45%;
     height: 80%;
